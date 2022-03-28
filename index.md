@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: Welcome to Womp Womp
 ---
 
-I'm glad you are here. I plan to talk about ...
+Welcome to Womp Womp, more training space for the ever-hustling ASH...
